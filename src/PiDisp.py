@@ -1226,7 +1226,7 @@ def readProjectFolderLocation():
 apWindow = tk.Tk()
 buttonWidth = 28
 
-apWindow.wm_title("PyDisp")  # the title
+apWindow.wm_title("PiDisp")  # the title
 apWindow.geometry("1200x600+100+40")
 #apWindow.iconbitmap(r"C:\Users\peter\Downloads\facebook_cover_photo_1.ico")
 apWindow.configure(background="#F5F5F5")
